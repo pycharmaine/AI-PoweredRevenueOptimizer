@@ -391,9 +391,6 @@ Execute the model training and evaluation scripts:
 
 ## Results and Evaluation for Ferry Revenue Forecasting System
 
-Detailed results and evaluations are stored in /results. Metrics like RMSE, MAE, and R2 Score were utilized for model evaluation. Detailed insights are provided in /docs/results_analysis.md.
-
-
 ### A. Model Performances:
 
 1. Linear Regression
